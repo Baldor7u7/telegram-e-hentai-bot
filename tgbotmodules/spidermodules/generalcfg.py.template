@@ -2,7 +2,7 @@
 
 #-----------------------bot config session----------------------
 
-token = ""  #The token of the Telegram bot.
+token = "1654351896:AAEkWMJyDMWNTZLnUCw3GW16dBqIGuNnEJU"  #The token of the Telegram bot.
 
 maxiumprofile = 3   #The maximun profiles number every actual user could own. 
 
